@@ -86,5 +86,6 @@ return {
       show_food_units=-1 
     },
     enabled=true 
-  } 
+  },
+  ["workshop-774235473"]={ configuration_options={  }, enabled=true } 
 }
