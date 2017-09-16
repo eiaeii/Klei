@@ -87,5 +87,9 @@ return {
     },
     enabled=true 
   },
+  ["workshop-703359661"]={
+    configuration_options={ AK47DMGSTAT=55, DEAGLEDMGSTAT=40, GLOCKDMGSTAT=25, HPSTAT=1, KNIFEDMGSTAT=15 },
+    enabled=true 
+  },
   ["workshop-774235473"]={ configuration_options={  }, enabled=true } 
 }
